@@ -1,5 +1,5 @@
-import Link from 'next/link';
-import Image from 'next/image';
+import Link from "next/link";
+import Image from "next/image";
 
 const posts = [
   {
@@ -30,7 +30,7 @@ const posts = [
     id: 5,
     title: "The Crystal Clear Lake",
     description: "A Canoe Adventure",
-    image: '/post5.png',
+    image: "/post5.png",
   },
   {
     id: 6,
@@ -48,7 +48,7 @@ const posts = [
     id: 8,
     title: "Frozen Paradise",
     description: "Exploring The Ice Kingdom",
-    image: '/post8.png',
+    image: "/post8.png",
   },
   {
     id: 9,

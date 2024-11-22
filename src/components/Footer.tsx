@@ -1,14 +1,14 @@
 import React from "react";
 import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin, FaYoutube } from "react-icons/fa";
-import Link from "next/link";
+
 
 const Footer = () => {
   return (
     <footer className="bg-gray-900 text-white py-12 ">
       <div className="container mx-auto px-6 md:px-12">
-        {/* Footer Top: Logo, About, Quick Links */}
+   
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
-          {/* Column 1: Logo and About */}
+         
           <div>
             <h2 className="text-3xl font-bold text-primary mb-4">TravelSphere</h2>
             <p className="text-gray-400 text-sm mb-4">

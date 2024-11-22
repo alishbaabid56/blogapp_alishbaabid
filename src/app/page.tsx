@@ -1,12 +1,12 @@
 "use client"
 
 
-import Navbar from '../components/Navbar';
-import PostList from './PostList/page';
-import Reviews from './review';
-import Footer from '@/components/Footer';
+import Navbar from "../components/Navbar";
+import PostList from "./PostList/page";
+import Reviews from "./review";
+import Footer from "@/components/Footer";
 
-import { useState } from 'react';
+import { useState } from "react";
 
 export default function Home() {
   const [searchText, setSearchText] = useState('');

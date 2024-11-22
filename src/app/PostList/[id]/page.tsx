@@ -1,7 +1,7 @@
-import Link from 'next/link';
-import CommentsSection from '../../../components/CommentSection';
-import Navbar from '@/components/Navbar';
-import Footer from '@/components/Footer';
+import Link from "next/link";
+import CommentsSection from "../../../components/CommentSection";
+import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
 
 
 const posts: Record<string, { title: string; content: string; image: string }> = {
