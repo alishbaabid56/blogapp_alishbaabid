@@ -7,48 +7,48 @@ import Footer from "@/components/Footer";
 const posts: Record<string, { title: string; content: string; image: string }> = {
   1: { 
     title: "Tropical Beach Paradise",
-    content: "Traveling opens the door to unforgettable experiences and breathtaking landscapes. Whether you explore the bustling streets of Tokyo or hike through the serene trails of the Swiss Alps or soak up the sun on Bali's pristine beaches. Each journey offers a story waiting to be told. Dive into our travel blog for inspiration tips and firsthand accounts that will ignite your wanderlust and guide you to your next adventure.",
+    content: "Traveling opens the door to unforgettable experiences and breathtaking landscapes. Whether you explore the bustling streets of Tokyo or hike through the serene trails of the Swiss Alps or soak up the sun on Balis pristine beaches. Each journey offers a story waiting to be told. Dive into our travel blog for inspiration tips and firsthand accounts that will ignite your wanderlust and guide you to your next adventure.",
     image: "/post1b.png" 
   },
   2: { 
     title: "Emerald Valley", 
-    content: "Traveling opens the door to unforgettable experiences and breathtaking landscapes. Whether you explore the bustling streets of Tokyo or hike through the serene trails of the Swiss Alps or soak up the sun on Bali's pristine beaches. Each journey offers a story waiting to be told. Dive into our travel blog for inspiration tips and firsthand accounts that will ignite your wanderlust and guide you to your next adventure.",
+    content: "Traveling opens the door to unforgettable experiences and breathtaking landscapes. Whether you explore the bustling streets of Tokyo or hike through the serene trails of the Swiss Alps or soak up the sun on Balis pristine beaches. Each journey offers a story waiting to be told. Dive into our travel blog for inspiration tips and firsthand accounts that will ignite your wanderlust and guide you to your next adventure.",
     image: "/post2.png"
   },
   3: { 
     title: "The Golden Desert",
-    content: "Traveling opens the door to unforgettable experiences and breathtaking landscapes. Whether you explore the bustling streets of Tokyo or hike through the serene trails of the Swiss Alps or soak up the sun on Bali's pristine beaches. Each journey offers a story waiting to be told. Dive into our travel blog for inspiration tips and firsthand accounts that will ignite your wanderlust and guide you to your next adventure.",
+    content: "Traveling opens the door to unforgettable experiences and breathtaking landscapes. Whether you explore the bustling streets of Tokyo or hike through the serene trails of the Swiss Alps or soak up the sun on Balis pristine beaches. Each journey offers a story waiting to be told. Dive into our travel blog for inspiration tips and firsthand accounts that will ignite your wanderlust and guide you to your next adventure.",
     image: "/post3.png"
   },
 
   4: { 
     title: "MyStic Mountain",
-    content: "Traveling opens the door to unforgettable experiences and breathtaking landscapes. Whether you explore the bustling streets of Tokyo or hike through the serene trails of the Swiss Alps or soak up the sun on Bali's pristine beaches. Each journey offers a story waiting to be told. Dive into our travel blog for inspiration tips and firsthand accounts that will ignite your wanderlust and guide you to your next adventure.",
+    content: "Traveling opens the door to unforgettable experiences and breathtaking landscapes. Whether you explore the bustling streets of Tokyo or hike through the serene trails of the Swiss Alps or soak up the sun on Balis pristine beaches. Each journey offers a story waiting to be told. Dive into our travel blog for inspiration tips and firsthand accounts that will ignite your wanderlust and guide you to your next adventure.",
     image: "/post4.png"
   },
   5: { 
     title: "The Crystal Clear Lake",
-    content: "Traveling opens the door to unforgettable experiences and breathtaking landscapes. Whether you explore the bustling streets of Tokyo or hike through the serene trails of the Swiss Alps or soak up the sun on Bali's pristine beaches. Each journey offers a story waiting to be told. Dive into our travel blog for inspiration tips and firsthand accounts that will ignite your wanderlust and guide you to your next adventure.",
+    content: "Traveling opens the door to unforgettable experiences and breathtaking landscapes. Whether you explore the bustling streets of Tokyo or hike through the serene trails of the Swiss Alps or soak up the sun on Balis pristine beaches. Each journey offers a story waiting to be told. Dive into our travel blog for inspiration tips and firsthand accounts that will ignite your wanderlust and guide you to your next adventure.",
     image: "/post5.png"
   },
   6: { 
     title: "Island Of Dream",
-    content: "Traveling opens the door to unforgettable experiences and breathtaking landscapes. Whether you explore the bustling streets of Tokyo or hike through the serene trails of the Swiss Alps or soak up the sun on Bali's pristine beaches. Each journey offers a story waiting to be told. Dive into our travel blog for inspiration tips and firsthand accounts that will ignite your wanderlust and guide you to your next adventure.",
+    content: "Traveling opens the door to unforgettable experiences and breathtaking landscapes. Whether you explore the bustling streets of Tokyo or hike through the serene trails of the Swiss Alps or soak up the sun on Balis pristine beaches. Each journey offers a story waiting to be told. Dive into our travel blog for inspiration tips and firsthand accounts that will ignite your wanderlust and guide you to your next adventure.",
     image: "/post6b.png"
   },
   7: { 
     title: "Lost Lagoon",
-    content: "Traveling opens the door to unforgettable experiences and breathtaking landscapes. Whether you explore the bustling streets of Tokyo or hike through the serene trails of the Swiss Alps or soak up the sun on Bali's pristine beaches. Each journey offers a story waiting to be told. Dive into our travel blog for inspiration tips and firsthand accounts that will ignite your wanderlust and guide you to your next adventure.",
+    content: "Traveling opens the door to unforgettable experiences and breathtaking landscapes. Whether you explore the bustling streets of Tokyo or hike through the serene trails of the Swiss Alps or soak up the sun on Balis pristine beaches. Each journey offers a story waiting to be told. Dive into our travel blog for inspiration tips and firsthand accounts that will ignite your wanderlust and guide you to your next adventure.",
     image: "/post7.png"
   },
   8: { 
     title: "Frozen Paradise",
-    content: "Traveling opens the door to unforgettable experiences and breathtaking landscapes. Whether you explore the bustling streets of Tokyo or hike through the serene trails of the Swiss Alps or soak up the sun on Bali's pristine beaches. Each journey offers a story waiting to be told. Dive into our travel blog for inspiration tips and firsthand accounts that will ignite your wanderlust and guide you to your next adventure.",
+    content: "Traveling opens the door to unforgettable experiences and breathtaking landscapes. Whether you explore the bustling streets of Tokyo or hike through the serene trails of the Swiss Alps or soak up the sun on Balis pristine beaches. Each journey offers a story waiting to be told. Dive into our travel blog for inspiration tips and firsthand accounts that will ignite your wanderlust and guide you to your next adventure.",
     image: "/post8.png"
   },
   9: { 
     title: "Whispering Woods",
-    content: "Traveling opens the door to unforgettable experiences and breathtaking landscapes. Whether you explore the bustling streets of Tokyo or hike through the serene trails of the Swiss Alps or soak up the sun on Bali's pristine beaches. Each journey offers a story waiting to be told. Dive into our travel blog for inspiration tips and firsthand accounts that will ignite your wanderlust and guide you to your next adventure.",
+    content: "Traveling opens the door to unforgettable experiences and breathtaking landscapes. Whether you explore the bustling streets of Tokyo or hike through the serene trails of the Swiss Alps or soak up the sun on Balis pristine beaches. Each journey offers a story waiting to be told. Dive into our travel blog for inspiration tips and firsthand accounts that will ignite your wanderlust and guide you to your next adventure.",
     image: "/post9.png"
   }
 };
